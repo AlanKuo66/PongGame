@@ -4,8 +4,11 @@ The original source code of pong comes from TokyoEdTech's "[Simple Pong in Pytho
 My father helped to add many new features and refactor the source code for me. 
 
 ## Demo
-
 ![Pong Demo](/demo/pong.gif?raw=true "Pong Demo")
+
+Sound Video:
+
+https://user-images.githubusercontent.com/88357844/127956942-de214c92-bb5a-48b3-a1f9-e2a5f4cfe101.mp4
 
 ## Features
 
@@ -37,6 +40,11 @@ My father helped to add many new features and refactor the source code for me.
 - Paddles Size
   - PAD_1_H = 101
   - PAD_2_H = 101
+
+## Programming
+I use Visual Sutdio 2019 Python to maintain the project. You can edit and run the code by opening the .sln file.
+Use pip to install all relevant packages to run the project.
+For other editors, you can use your favorite Python (such as Visual Studio Code) to run pong.py. 
 
 ## License
 
